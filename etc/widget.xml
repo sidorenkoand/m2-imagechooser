@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+
+<!-- Path for the example image: view/adminhtml/web/images/example.jpg -->
+<!--
+    <widget class="Sidorenkoand\ImageChooser\Block\Widget\ExampleWidget" id="sidorenkoand_imagechooser_example" placeholder_image="Sidorenkoand_ImageChooser::images/example.jpg">
+        <label>Example ImageChooser</label>
+        <description></description>
+        <parameters>
+			<parameter name="description" xsi:type="block" sort_order="10" visible="true">
+                <label translate="true">Description</label>
+                <block class="Sidorenkoand\ImageChooser\Block\Adminhtml\Widget\TextField"/>
+            </parameter>
+            <parameter name="background_image_chooser" xsi:type="block" sort_order="20" visible="true">
+                <label>Background</label>
+                <block class="Sidorenkoand\ImageChooser\Block\Adminhtml\Widget\ImageChooser">
+                    <data>
+                        <item name="button" xsi:type="array">
+                            <item name="open" xsi:type="string">Choose Image...</item>
+                        </item>
+                    </data>
+                </block>
+            </parameter>
+        </parameters>
+    </widget>
+-->
+
+</widgets>
